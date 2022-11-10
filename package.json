@@ -51,7 +51,7 @@
     "guidemaker-link-checker": "^1.0.0",
     "guidemaker-toc-checker": "^1.0.0",
     "loader.js": "^4.7.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.1.0",
     "prember": "^1.0.2",
     "qunit-dom": "^0.8.0"
   },
